@@ -1,0 +1,9 @@
+diff a/src/main/resources/poc.properties b/src/main/resources/poc.properties	(rejected hunks)
+@@ -0,5 +0,6 @@
+ 
+ # MongoDB
+ #spring.data.mongodb.database=payment
++#spring.data.mongodb.uri=mongodb://opsh_rewr_payment_srv40316:WscG7H4vAVQW7b6Y@saavedra.novaltepre.corp:27017,sanpedro.novaltepre.corp:27017,tortuguitas.novaltepre.corp:27017/payment?replicaSet=replprep03
+ spring.data.mongodb.database=poc
+ spring.data.mongodb.uri=mongodb://localhost:27017
+\ No newline at end of file
